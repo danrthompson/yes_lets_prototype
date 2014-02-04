@@ -1,0 +1,26 @@
+Python
+Scrapy => http://scrapy.org/
+Scrape.py => http://zesty.ca/scrape/
+HarvestMan => http://www.harvestmanontheweb.com/
+Mechanized
+Beautiful Soup
+Online scraper from scrapy peeps => http://scrapinghub.com/
+http://lxml.de/
+http://htql.net/
+templatemaker
+
+Ruby
+scRUBYt => http://scrubyt.org/
+Anemone => http://anemone.rubyforge.org/ (spider)
+https://github.com/assaf/scrapi (OLD)
+https://github.com/felipecsl/wombat
+http://watir.com/
+
+Ruby: Not Really Crawlers but can be used like one
+hpricot => http://hpricot.com/
+Mechanize => https://github.com/tenderlove/me...
+Nokogiri => http://nokogiri.org/
+
+something using node.io
+http://phantomjs.org/
+http://casperjs.org/
