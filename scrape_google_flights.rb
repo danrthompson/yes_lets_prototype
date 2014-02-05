@@ -38,8 +38,8 @@ b = Watir::Browser.new :chrome
 
 
 origin = 'SFO'
-destinations = 'LAX, LAS, DEN, NEW, JFK, EWR, LGA, MSA, MIA, TMB, TNT, ORD, RFD, MDW, POR, RAL, JAX, OGG, LUP, MUE, MCI, TYS, CNY, MVY, MLB, ACK, SYR, BOS, PSM, TUL, YVR, YLW, CUN, SAP, GUA, SJO, MIA, SJU, SDQ, SFB, MCO, AUS, PHX, AZA, SLC, BOI, MSP, CLT, CHS, STL'.split(',').map!(&:strip)
-dates = [['2014-03-05', '2014-03-08'], ['2014-03-07', '2014-03-09'], ['2014-03-07', '2014-03-10']]
+destinations = 'LAX, LAS, DEN, JFK, EWR, LGA, MIA, ORD, MDW, JAX, OGG, MUE, MCI, TYS, CNY, MVY, MLB, ACK, SYR, BOS, TUL, YVR, YLW, CUN, SAP, GUA, SJO, MIA, SJU, SDQ, MCO, AUS, PHX, SLC, BOI, MSP, CLT, CHS, STL'.split(',').map!(&:strip)
+dates = [['2014-02-05', '2014-02-08'], ['2014-02-05', '2014-02-09'], ['2014-02-07', '2014-02-09'], ['2014-02-07', '2014-02-10']]
 
 results = []
 
